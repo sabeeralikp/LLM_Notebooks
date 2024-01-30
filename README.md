@@ -1,0 +1,2 @@
+# Unlock-the-Power-of-Open-Models-Harnessing-the-Potential-Beyond-GPT-3.5-and-LLama2-70B-at-Zero-Cost-
+This repository is dedicated to the exploration and utilization of open models, which have emerged as powerful and versatile alternatives to closed models, often surpassing them in various domains. These models have become a go-to choice for many developers and researchers due to their superior performance.
